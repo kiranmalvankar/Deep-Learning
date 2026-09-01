@@ -30,19 +30,19 @@ The first part of the repository covers the core concepts required to understand
 
 | No. | Topic |
 |---|---|
-| 01 | Introduction to Deep Learning |
-| 02 | Perceptron |
-| 03 | Activation Functions |
-| 04 | Forward Propagation |
-| 05 | Loss Function |
-| 06 | Backpropagation |
-| 07 | Gradient Descent |
-| 08 | Epoch, Batch & Iteration |
-| 09 | Optimizers |
-| 10 | Overfitting & Underfitting |
-| 11 | Regularization |
-| 12 | Batch Normalization |
-| 13 | Model Evaluation |
+| 01 | [Introduction to Deep Learning](./01_Introduction_To_Deep_Learning.ipynb) |
+| 02 | [Perceptron](./02_Perceptron.ipynb) |
+| 03 | [Activation Functions](./03_Activation_Functions_In_Deep_Learning.ipynb) |
+| 04 | [Forward Propagation](./04_Forward_Propagation_In_Neural_Network.ipynb) |
+| 05 | [Loss Function](./05_Loss_Function_In_Deep_Learning.ipynb) |
+| 06 | [Backpropagation](./06_Backpropagation.ipynb) |
+| 07 | [Gradient Descent](./07_Gradient_Descent.ipynb) |
+| 08 | [Epoch, Batch & Iteration](./08_Epoch_Batch_Iteration.ipynb) |
+| 09 | [Optimizers](./09_Optimizers.ipynb) |
+| 10 | [Overfitting & Underfitting](./10_Overfitting_and_Underfitting.ipynb) |
+| 11 | [Regularization](./11_Regularization.ipynb) |
+| 12 | [Batch Normalization](./12_Batch_Normalization.ipynb) |
+| 13 | [Model Evaluation](./13_Model_Evaluation.ipynb) |
 
 ---
 
@@ -52,13 +52,13 @@ The second part explores major neural network architectures and the problems the
 
 | No. | Architecture |
 |---|---|
-| 14 | Artificial Neural Network (ANN) |
-| 15 | Convolutional Neural Network (CNN) |
-| 16 | Recurrent Neural Network (RNN) |
-| 17 | Long Short-Term Memory (LSTM) |
-| 18 | Gated Recurrent Unit (GRU) |
-| 19 | Attention Mechanism |
-| 20 | Transformer Architecture |
+| 14 | [Artificial Neural Network (ANN)](./14_Artificial_Neural_Network_(ANN).ipynb) |
+| 15 | [Convolutional Neural Network (CNN)](./15_Convolutional_Neural_Network_(CNN).ipynb) |
+| 16 | [Recurrent Neural Network (RNN)](./16_Recurrent_Neural_Network_(RNN).ipynb) |
+| 17 | [Long Short-Term Memory (LSTM)](./17_Long_Short-Term_Memory_(LSTM).ipynb) |
+| 18 | [Gated Recurrent Unit (GRU)](./18_Gated_Recurrent_Unit_(GRU).ipynb) |
+| 19 | [Attention Mechanism](./19_Attention_Mechanism.ipynb) |
+| 20 | [Transformer Architecture](./20_Transformer_Architecture.ipynb) |
 
 ---
 
