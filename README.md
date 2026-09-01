@@ -150,20 +150,14 @@ Each topic is explored from both a conceptual and technical perspective, includi
 
 The repository will progressively expand from fundamental Deep Learning concepts toward advanced architectures and domain-specific applications.
 
-`text
-Deep Learning Fundamentals
-          ↓
-Neural Network Architectures
-          ↓
-Graph Deep Learning
-          ↓
-Training & Optimization
-          ↓
-Advanced Deep Learning
-          ↓
-Deep Learning for Cheminformatics
-          ↓
-AI-driven Drug Discovery
+`
+- Deep Learning Fundamentals
+- Neural Network Architectures
+- Graph Deep Learning
+- Training & Optimization
+- Advanced Deep Learning
+- Deep Learning for Cheminformatics
+- AI-driven Drug Discovery
 
 ---
 ## 🎯 Long-Term Direction
@@ -174,5 +168,7 @@ Cheminformatics → Molecular Modeling → QSAR → ADMET → Drug Discovery
 
 ## 👤 Author
 Kiran Malvankar
+
 Technical focus:
+
 Cheminformatics | Machine Learning | Deep Learning | AI-driven Drug Discovery
