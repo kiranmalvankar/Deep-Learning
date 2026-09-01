@@ -153,12 +153,14 @@ Deep Learning for Cheminformatics
           ↓
 AI-driven Drug Discovery
 
-🎯 Long-Term Direction
+---
+## 🎯 Long-Term Direction
 The long-term objective is to develop a strong technical foundation in Deep Learning and apply these concepts to problems in:
 Cheminformatics → Molecular Modeling → QSAR → ADMET → Drug Discovery
 
+---
 
-👤 Author
+## 👤 Author
 Kiran Malvankar
 Technical focus:
 Cheminformatics | Machine Learning | Deep Learning | AI-driven Drug Discovery
