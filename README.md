@@ -1,7 +1,7 @@
 # Deep Learning
 
 <p align="center">
-  <img src="deep-learning-banner.webp" width="850">
+  <img src="Deep_Learning.webp" width="850">
 </p>
 
 <p align="center">
