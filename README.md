@@ -1,5 +1,17 @@
 # Deep Learning
 
+<p align="center">
+  <img src="deep-learning-banner.webp" width="850">
+</p>
+
+<p align="center">
+  A comprehensive technical exploration of Deep Learning,
+  neural network architectures, and AI applications
+  in cheminformatics and drug discovery.
+</p>
+
+# Deep Learning
+
 A comprehensive technical exploration of Deep Learning fundamentals, neural network architectures, graph neural networks, optimization, and applications in cheminformatics and drug discovery.
 
 ---
